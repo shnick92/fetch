@@ -1,2 +1,2 @@
 # fetch
-fetch rewards table
+fetch table
